@@ -1,4 +1,4 @@
-# Getting a modfied Started with Create React App
+# Getting a modfied gainStarted with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
